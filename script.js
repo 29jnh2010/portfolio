@@ -79,18 +79,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const projects = [
         {
-            title: 'Site acessível',
+            title: 'Cartoes Reponcivo',
             description: 'Um site sobre o Tropicália, desenvolvido pela Alura, para o curso de Acessibilidade na Web.',
             technologies: ['HTML', 'CSS', 'JavaScript'],
-            liveLink: '#',
-            codeLink: '#'
+            liveLink: 'https://29jnh2010.github.io/cartoesResponsivo/',
+            codeLink: 'https://github.com/29jnh2010/cartoesResponsivo'
         },
         {
-            title: 'Site do portfólio',
+            title: 'Tri Segundo',
             description: 'Esse site de portfólio, tendo o template sido desenvolvido por Sam Bispo, para as aulas de Back-end.',
             technologies: ['HTML', 'CSS', 'JavaScript'],
-            liveLink: '#',
-            codeLink: '#'
+            liveLink: 'https://29jnh2010.github.io/triSegundo/',
+            codeLink: 'https://github.com/29jnh2010/triSegundo'
         }
     ];
 
